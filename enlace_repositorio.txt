@@ -1,0 +1,5 @@
+Repositorio del proyecto CleanSuite Frontend (React) - Evidencia GA7-220501096-AA4-EV03
+URL: https://github.com/TUUSUARIO/TUREPOSITORIO   (reemplazar por el enlace real)
+Aprendiz: NOMBRE APELLIDO                         (reemplazar)
+Ficha: NUMERO_FICHA                               (reemplazar)
+Evidencia: GA7-220501096-AA4-EV03
